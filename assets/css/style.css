@@ -111,7 +111,7 @@ section .title::before{
 	padding: 30px 0;
 	font-family: sans-serif;
 	transition: all 0.3s ease;
-	background-color: radial-gradient(to right, #ccc, #eea, #ffe);
+	background-color: linear-gradient(to right, #ccc, #eea, #ffe);
 }
 
 .navbar.sticky{
